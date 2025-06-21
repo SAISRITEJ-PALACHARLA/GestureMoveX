@@ -39,3 +39,4 @@ Built by a team of three caffeine-fueled developers on a mission to **redefine h
 ```bash
 git clone https://github.com/SAISRITEJ-PALACHARLA/GestureMoveX.git
 cd GestureMoveX
+python3 filename.py
